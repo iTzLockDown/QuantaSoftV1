@@ -1,1 +1,4 @@
 git remote add origin https://github.com/iTzLockDown/QuantaSoftV1.git
+
+
+https://gist.github.com/BCasal/026e4c7f5c71418485c1
